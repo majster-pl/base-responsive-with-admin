@@ -1,7 +1,7 @@
 
   
 
-<p  align="center"><a  target="_blank"><img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/public/images/logo.svg?raw=true"  width="100"></a></p>
+<p  align="center"><a  target="_blank"><img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/public/images/logo.svg?raw=true"  width="200"></a></p>
 
   
 
@@ -27,10 +27,10 @@ This is a source code for base bone website setup created using breeze and orchi
 		
 
 ## Gallery
-<img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/1.png?raw=true"  width="200">
-<img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/2.png?raw=true"  width="200">
-<img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/3.png?raw=true"  width="200">
-<img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/4.png?raw=true"  width="200">
+|  <img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/1.png?raw=true"  width="300">| <img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/2.png?raw=true"  width="300"> |
+|--|--|
+| <img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/3.png?raw=true"  width="300"> | <img  src="https://github.com/majster-pl/base-responsive-with-admin/blob/main/resources/demo-images/4.png?raw=true"  width="300"> |
+
 
 ## Get started
 
