@@ -66,9 +66,12 @@ Change .evn file with your db etc.
     DB_PASSWORD=
     DASHBOARD_PREFIX='admin'
 
-Migrate database with admin user (you can run migrate without seeding admin user then please use tinker to create new user):
+Migrate database:
 
-    php artisan migrate --seed
+    php artisan migrate
+Create admin user and setup password:
+
+    php artisan orchid:admin nickname email@email.com secretpassword
 
 
 ## Running the project
@@ -76,23 +79,17 @@ Migrate database with admin user (you can run migrate without seeding admin user
 ### Run locally:
     npm run dev
     php artisan serve
-#### Admin panel:
-Visit http://localhost:8000/admin and use:
 
-    user name: admin@admin.org
-    password: password
-**Remember to change the password after login!**
+#### Admin panel:
+Visit http://localhost:8000/admin and use earlier setup email and password.
 
 #### Main page:
-Visit http://localhost:8000/ and use:
-
-    user name: admin@admin.org
-    password: password
+Visit http://localhost:8000/ and use earlier setup email and password.
 
 
 ### To build project for **production** run:
 
     npm run build
 
-Modifie to your needs and then upload project to the server.
+Upload project to the server.
 
