@@ -71,7 +71,7 @@ Migrate database:
     php artisan migrate
 Create admin user and setup password:
 
-    php artisan orchid:admin nickname email@email.com secretpassword
+    php artisan orchid:admin Admin admin@admin.org password
 
 
 ## Running the project
